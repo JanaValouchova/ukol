@@ -1,24 +1,41 @@
 # Westworld Episodes
 
 ## Season 1: The Maze
-* The Original
-* Chestnut
-* The Stray
-* Dissonance Theory
-* Contrapasso
-* The Adversary
-* Trompe L'Oeil
-* Trace Decay
-* The Well-Tempered Clavier
-* The Bicameral Mind
+1. The Original
+
+2. Chestnut
+
+3. The Stray
+
+4. Dissonance Theory
+
+5. Contrapasso
+
+6. The Adversary
+
+7. Trompe L'Oeil
+
+8. Trace Decay
+
+9. The Well-Tempered Clavier
+
+10. The Bicameral Mind
 
 ## Season 2: The Door
-* Journey into Night
-* Virtù e Fortuna
-* The Riddle of the Sphinx
-* Akane no Mai
-* Phase Space
-* Les Ecorches
-* Kiksuya
-* Vanishing Point
-* The Passenger
+1. Journey into Night
+
+2. Virtù e Fortuna
+
+3. The Riddle of the Sphinx
+
+4. Akane no Mai
+
+5. Phase Space
+
+6. Les Ecorches
+
+7. Kiksuya
+
+8. Vanishing Point
+
+9. The Passenger
